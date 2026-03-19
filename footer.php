@@ -2,10 +2,10 @@
         <div class="main-footer">
             <div class="container">
                 <div class="row">
-                    <div class="col-3">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <a href="#"><img src="img/logo-rql.svg" alt=""></a>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="main-footer-content title-white">
                             <h6>Contato</h6>
                             <a href="mailto:rql@rqladvogadosassociados.com.br" class="contact-link"><i class="bi bi-envelope"></i> rql@rqladvogadosassociados.com.br</a>
@@ -13,7 +13,7 @@
                             <a href="#" class="contact-link"><i class="bi bi-instagram"></i> Siga-nos no Instagram</a>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="main-footer-content title-white">
                             <h6>Escritório</h6>
                             <div class="footer-office">
@@ -22,7 +22,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-3">
+                    <div class="col-12 col-md-6 col-lg-3">
                         <div class="main-footer-content title-white">
                             <h6>Contato</h6>
                             <div class="footer-office">
@@ -37,23 +37,22 @@
         <div class="bottom-footer">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-6">
+                    <div class="col-12 col-lg-6">
                         <p>© 2026 ROCHA & QUEIROZ ADVOGADOS. Todos os Direitos reservados. | CNPJ: 26.642.038/0001-51</p>
                     </div>
-                    <div class="col-2 d-flex justify-content-center">
+                    <div class="col-6 col-lg-2 d-flex justify-content-start justify-content-lg-center">
                         <a href="#">Política de Privacidade</a>
                     </div>
-                    <div class="col-2 d-flex justify-content-center">
+                    <div class="col-6 col-lg-2 d-flex justify-content-start justify-content-lg-center">
                         <a href="#">Termos de Uso</a>
                     </div>
-                    <div class="col-2 d-flex justify-content-end">
+                    <div class="col-12 col-lg-2 d-flex justify-content-start justify-content-lg-end">
                         <a href="#"><img src="img/logo-th2.svg" alt="TH2"></a>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>

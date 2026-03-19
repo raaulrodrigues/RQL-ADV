@@ -29,14 +29,14 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-60"></div>
     </section>
     <section id="practice-areas">
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-6">
+                <div class="col-12 col-md-6">
                     <div class="area-card" style="background-image: url('img/background-area-1.jpg');">
                         <div class="area-card-content main-text text-white title-white">
                             <p>Nossas áreas de atuação</p>
@@ -46,7 +46,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-md-6">
                     <div class="area-card" style="background-image: url('img/background-area-2.jpg');">
                         <div class="area-card-content main-text text-white title-white">
                             <p>Nossas áreas de atuação</p>
@@ -69,7 +69,7 @@
                         <p>Nossos Sócios</p>
                     </div>
                 </div>
-                <div class="col-5">
+                <div class="col-12 col-md-12 col-lg-5">
                     <div class="partner-item title-light-black">
                         <h2>Ramon Rocha</h2>
                         <div class="partner-contacts">
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-5">
+                <div class="col-12 col-md-12 col-lg-5">
                     <div class="partner-item title-light-black">
                         <h2>Jefferson Queiroz</h2>
                         <div class="partner-contacts">
@@ -89,13 +89,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-2 d-flex justify-content-end">
+                <div class="col-12 col-lg-2 d-flex justify-content-center justify-content-lg-end mt-4 mt-lg-0">
                     <a href="#" class="main-btn bg-gold text-white bg-hover-light-black text-hover-gold">VER TODOS</a>
                 </div>
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-4">
+                <div class="col-12 col-md-8 col-lg-4">
                     <div class="our-team-top title-gold text-light-black main-text">
                         <h2>Equipe</h2>
                         <p>Com atuação consolidada e alinhada às práticas contemporâneas nas áreas Trabalhista e Tributária, o escritório utiliza métodos jurídicos estratégicos, com foco em eficiência e dinamismo.</p>
@@ -116,8 +116,8 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-60"></div>
     </section>
     <section id="our-differentials" style="background-image: url('img/background-our-differentials.jpg');">
         <div class="spacer-80"></div>
@@ -131,28 +131,28 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-eyeglasses"></i>
                         <h3>Experiência</h3>
                         <p>Com atuação consolidada e alinhada as práticas contemporâneas nas áreas Trabalhista e Tributária, o escritório utiliza métodos jurídicos estratégicos, com foco em eficiência e dinamismo</p>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-patch-check"></i>
                         <h3>Qualificação</h3>
                         <p>Dentre as principais atividades do escritório, além do atendimento consultivo em Direito do Trabalho e Direito Tributário, destaca-se a atuação no contencioso judicial, mediante o ajuizamento das medidas processuais cabíveis e o acompanhamento técnico das demandas em todas as suas fases.</p>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-star"></i>
                         <h3>Confiabilidade</h3>
                         <p>Defender os interesses de nossos clientes, com ética, resguardando a moral e seus valores, estabelecendo confiabilidade e transparência.</p>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-mortarboard"></i>
                         <h3>Especialização</h3>
@@ -160,8 +160,8 @@
                     </div>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-80"></div>
     </section>
     <section id="publications">
         <div class="spacer-60"></div>
@@ -175,7 +175,7 @@
             </div>
             <div class="spacer-60"></div>
             <div class="row">
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="pub-card">
                         <div class="pub-card-img">
                             <span class="pub-tag">ÁREA DE ATUAÇÃO</span>
@@ -188,7 +188,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="pub-card">
                         <div class="pub-card-img">
                             <span class="pub-tag">ÁREA DE ATUAÇÃO</span>
@@ -201,7 +201,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="pub-card">
                         <div class="pub-card-img">
                             <span class="pub-tag">ÁREA DE ATUAÇÃO</span>
@@ -214,7 +214,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-3">
+                <div class="col-12 col-md-6 col-lg-3">
                     <div class="pub-card">
                         <div class="pub-card-img">
                             <span class="pub-tag">ÁREA DE ATUAÇÃO</span>
@@ -234,7 +234,7 @@
                     <a href="#" class="main-btn bg-gold text-white bg-hover-light-black text-hover-gold">VER TODAS AS PUBLICAÇÕES</a>
                 </div>
             </div>
+            <div class="spacer-60"></div>
         </div>
-        <div class="spacer-60"></div>
     </section>
 <?php require_once 'footer.php'; ?>

@@ -1,0 +1,187 @@
+@media (max-width: 540px) {
+    #practice-areas>div>div>div .area-card {
+        height: 500px;
+    }
+
+    #practice-areas>div>div>div:first-child {
+        margin-bottom: 30px;
+    }
+
+    #our-partners>div>div>div .partner-item {
+        margin-bottom: 30px;
+    }
+    #our-partners>div>div>div .partner-item h2 {
+        font-size: 25px;
+    }
+    #our-partners>div>div>div .partner-item .partner-contacts a {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    #our-partners>div>div>div .team-search {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-top: 20px;
+    }
+    #our-partners>div>div>div .team-search h2 {
+        font-size: 25px;
+        margin-bottom: 16px;
+        margin-top: 0;
+    }
+    #our-partners>div>div>div .team-search i {
+        display: none;
+    }
+    #our-partners>div>div>div .team-search input {
+        width: 100%;
+        font-size: 18px;
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    #our-partners>div>div>div .team-search select {
+        width: 100%;
+        font-size: 18px;
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    #our-partners>div>div>div .team-search a.main-btn {
+        width: 100%;
+        text-align: center;
+    }
+    
+    #our-differentials>div>div>div .differential-item {
+        margin-bottom: 40px;
+    }
+    #our-differentials>div>div>div:nth-child(even) .differential-item {
+        margin-top: 0;
+    }
+
+    #publications>div>div>div .pub-card {
+        margin-bottom: 30px;
+    }
+
+    #about-us-content>div>div>div .about-content {
+        margin-bottom: 30px;
+    }
+
+    #our-history>div>div>div .history-tabs {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+    #our-history>div>div>div .history-tabs .history-tab {
+        font-size: 14px;
+        padding: 10px 14px;
+        flex-shrink: 0;
+        flex: none;
+    }
+    #our-history>div>div>div .history-content {
+        padding: 20px;
+    }
+    #our-history>div>div>div .history-content p {
+        font-size: 14px;
+    }
+
+    #related-professionals>div>div>div h2 {
+        font-size: 20px;
+    }
+    .wrapper-professionals .professional-card .professional-card-body .professional-card-email {
+        font-size: 18px;
+    }
+    .wrapper-professionals .professional-card .professional-card-body .professional-card-email i {
+        font-size: 18px;
+    }
+
+    #professional-hero>div>div {
+        flex-direction: column;
+    }
+    #professional-hero>div>div>div .professional-hero-img img {
+        width: 100%;
+        aspect-ratio: 3/2;
+        object-fit: cover;
+        object-position: top;
+    }
+    #professional-hero>div>div>div .professional-hero-content {
+        padding-top: 20px;
+    }
+    #professional-hero>div>div>div .professional-hero-content h1 {
+        font-size: 28px;
+    }
+    #professional-hero>div>div>div .professional-hero-content .contact-link {
+        font-size: 14px;
+    }
+
+    #publication-hero>div>div>div .publication-hero-img {
+        margin-top: 30px;
+    }
+    #publication-hero>div>div>div .publication-hero-content h2 {
+        font-size: 24px;
+    }
+
+    #professionals-list>div>div>div .professionals-search-field {
+        margin-bottom: 16px;
+    }
+    #professionals-list>div>div>div .professionals-search-field input,
+    #professionals-list>div>div>div .professionals-search-field select {
+        font-size: 14px;
+    }
+    #professionals-list>div>div>div .professional-card {
+        margin-bottom: 30px;
+    }
+    #professionals-list>div>div>div .professional-card .professional-card-body h5 {
+        font-size: 16px;
+    }
+
+    #our-culture>div>div>div .our-culture-content {
+        margin-bottom: 30px;
+    }
+
+    #our-culture>div>div>div .our-culture-content p {
+        font-size: 18px;
+    }
+
+    #contact>div>div>div .contact-form {
+        margin-bottom: 30px;
+    }
+    #contact>div>div>div .contact-map iframe {
+        height: 300px;
+    }
+
+    .careers-search {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .careers-search-input,
+    .careers-search-select {
+        position: relative;
+        width: 100%;
+        margin: 10px 0 10px 30px;
+    }
+    
+    footer .main-footer>div>div>div {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    footer .main-footer>div>div>div img {
+        margin: 0 auto;
+        display: block;
+    }
+    footer .main-footer>div>div>div .contact-link {
+        justify-content: center;
+    }
+    footer .bottom-footer>div>div>div {
+        text-align: center;
+        justify-content: center !important;
+        margin-bottom: 8px;
+    }
+}
+
+@media (max-width: 960px) {
+    #our-partners>div>div>div .partner-item {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #our-partners>div>div>div .partner-item .partner-contacts {
+        justify-content: center;
+    }
+}
+

@@ -5,7 +5,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <div class="about-hero-content main-text text-white">
+                        <div class="about-hero-content main-text text-white title-white">
                             <p>O Escritório</p>
                             <h1>Quem somos</h1>
                         </div>
@@ -18,7 +18,7 @@
         <div class="spacer-60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-6">
+                <div class="col-12 col-md-6">
                     <div class="about-content main-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
                         <ul>
@@ -36,7 +36,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-md-6">
                     <div class="about-content main-text">
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
                         <ul>
@@ -105,7 +105,7 @@
                         <h5>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.</h5>
                         <p>Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
                         <div class="spacer-20"></div>
-                        <a href="#" class="main-btn bg-gold text-white bg-hover-white text-hover-gold">CANDIDATAR-SE</a>
+                        <a href="#" class="main-btn bg-gold text-white bg-hover-light-black text-hover-gold">CANDIDATAR-SE</a>
                     </div>
                 </div>
             </div>

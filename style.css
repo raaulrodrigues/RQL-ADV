@@ -485,7 +485,7 @@ em {
     color: #ffffff;
 }
 .text-hover-gold:hover {
-    color: #E1C166;
+    color: #E1C166 !important;
 }
 .text-hover-light-gold:hover {
     color: #D9C871;
@@ -602,6 +602,171 @@ em {
     color: #5D5D5D;
     font-family: 'Sanford' !important;
 }
+
+/*Carousel*/
+
+.slick-arrows .slick-arrow {
+    display: block;
+    width: 36px;
+    height: 36px;
+    text-indent: -9999px;
+    border: 1px solid #E1C166;
+    background-color: #222222;
+    background-position: center;
+    background-size: 11px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-left: 20px;
+}
+
+.gold-arrows-light .slick-arrow {
+    background-color: #fff;
+    border: 1px solid #E1C166;
+}
+
+.gold-arrows-light .slick-arrow:hover {
+    background-color: #222222;
+}
+
+.gold-arrows .slick-prev {
+    background-image: url('img/prev-golden-arrow.svg');
+    
+}
+
+.gold-arrows .slick-next {
+    background-image: url('img/next-golden-arrow.svg');
+}
+
+.gold-arrows .slick-arrow:hover {
+    background-color: #fff;
+}
+
+.gold-arrows-light .slick-prev {
+    background-image: url('img/prev-golden-arrow.svg');
+}
+
+.gold-arrows-light .slick-next {
+    background-image: url('img/next-golden-arrow.svg');
+}
+
+.slick-hidden {
+    display: none !important;
+}
+
+/*Carousel*/
+
+/* Cards */
+
+.wrapper-professionals .slider-professionals {
+    padding: 0;
+}
+.wrapper-professionals .professional-card {
+    padding: 0 10px;
+}
+.wrapper-professionals .professional-card .professional-card-img {
+    line-height: 0;
+}
+.wrapper-professionals .professional-card .professional-card-img img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    display: block;
+}
+.wrapper-professionals .professional-card .professional-card-body {
+    padding: 12px 0;
+}
+.wrapper-professionals .professional-card .professional-card-body h5 {
+    font-size: 18px;
+    font-weight: 300;
+    color: #E1C166;
+    margin-bottom: 8px;
+}
+.wrapper-professionals .professional-card .professional-card-divider {
+    height: 1px;
+    background: #E1C166;
+    margin-bottom: 10px;
+}
+.wrapper-professionals .professional-card .professional-card-body .professional-card-email {
+    font-size: 13px;
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.wrapper-professionals .professional-card .professional-card-body .professional-card-email i {
+    margin-right: 6px;
+}
+.wrapper-professionals .professional-card .professional-card-body .professional-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper-professionals .professional-card .professional-card-body .professional-card-footer a {
+    color: #E1C166;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.wrapper-lawyers .slider-lawyers {
+    padding: 0;
+}
+.wrapper-lawyers .lawyer-card {
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-img {
+    line-height: 0;
+    width: 80px;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-img img {
+    width: 80px;
+    height: 110px;
+    object-fit: cover;
+    display: block;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body {
+    padding: 0 0 0 16px;
+    flex: 1;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body h5 {
+    font-size: 25px;
+    font-weight: 300 !important;
+    margin-bottom: 6px;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-divider {
+    height: 1px;
+    background: #E1C166;
+    margin-bottom: 8px;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body .lawyer-card-email {
+    font-size: 16px;
+    font-weight: 300;
+    color: #222222;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body .lawyer-card-email i {
+    margin-right: 6px;
+    color: #E1C166;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body .lawyer-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.wrapper-lawyers .lawyer-card .lawyer-card-body .lawyer-card-footer a {
+    color: #E1C166;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/* Cards */
 
 /* Header */
 
@@ -923,7 +1088,7 @@ em {
 }
 #publications>div>div>div .pub-card .pub-card-img img {
     width: 100%;
-    height: 220px;
+    height: 250px;
     object-fit: cover;
     display: block;
 }
@@ -934,6 +1099,7 @@ em {
     background: #E1C166;
     color: #fff;
     font-size: 14px;
+    font-weight: 600;
     padding: 14px 14px;
     border-radius: 99px;
     text-transform: uppercase;
@@ -997,8 +1163,6 @@ em {
 }
 #about-us-hero .slide>div>div>div .about-hero-content h1 {
     font-size: 48px;
-    font-weight: 300;
-    font-style: italic;
 }
 
 #about-us-content {}
@@ -1082,6 +1246,453 @@ em {
     margin-bottom: 0;
 }
 /* About Us */
+
+/* Area de atuacao */
+
+#related-professionals {}
+#related-professionals>div {}
+#related-professionals>div>div {}
+#related-professionals>div>div>div {}
+#related-professionals>div>div>div h2 {
+    font-size: 25px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Area de atuacao */
+
+/* Contato */
+
+#contact {}
+#contact>div {}
+#contact>div>div {}
+#contact>div>div>div {}
+#contact>div>div>div .contact-form {}
+#contact>div>div>div .contact-form .contact-field {
+    border-bottom: 1px solid #E1C166;
+    margin-bottom: 24px;
+}
+#contact>div>div>div .contact-form .contact-field input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 8px 0;
+    font-size: 16px;
+    font-family: 'Exo';
+    background: transparent;
+}
+#contact>div>div>div .contact-form .contact-field input::placeholder {
+    color: #5D5D5D;
+}
+#contact>div>div>div .contact-form .contact-field textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 8px 0;
+    font-size: 16px;
+    font-family: 'Exo';
+    background: transparent;
+    resize: none;
+    height: 80px;
+}
+#contact>div>div>div .contact-form .contact-field textarea::placeholder {
+    color: #CDCDCD;
+}
+#contact>div>div>div .contact-map {}
+#contact>div>div>div .contact-map iframe {
+    display: block;
+    width: 100%;
+    height: 400px;
+}
+
+/* Contato */
+
+/* Interna equipe */
+
+#professional-hero {}
+#professional-hero>div {}
+#professional-hero>div>div {
+    align-items: flex-start;
+}
+#professional-hero>div>div>div {}
+#professional-hero>div>div>div .professional-hero-img {}
+#professional-hero>div>div>div .professional-hero-img img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    display: block;
+    max-width: 280px;
+}
+#professional-hero>div>div>div .professional-hero-content {}
+#professional-hero>div>div>div .professional-hero-content h1 {
+    font-size: 40px;
+    font-weight: 300;
+    margin-bottom: 16px;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-contacts {
+    display: flex;
+    flex-direction: column;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-contacts .contact-link {
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-contacts .contact-link i {
+    margin-right: 8px;
+    font-size: 16px;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-divider {
+    height: 1px;
+    background: #E1C166;
+    margin: 20px 0;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+#professional-hero>div>div>div .professional-hero-content .professional-hero-tags .professional-tag {
+    background: #E1C166;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 400;
+    padding: 6px 16px;
+    border-radius: 99px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+/* Interna equipe */
+
+/* Interna publicacao */
+
+#publication-hero {}
+#publication-hero>div {}
+#publication-hero>div>div {}
+#publication-hero>div>div>div {}
+#publication-hero>div>div>div .publication-hero-content {}
+#publication-hero>div>div>div .publication-hero-content p {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#publication-hero>div>div>div .publication-hero-content h2 {
+    font-size: 45px;
+    font-weight: 300 !important;
+    margin-bottom: 0;
+}
+#publication-hero>div>div>div .publication-hero-divider {
+    height: 1px;
+    background: #E1C166;
+    margin: 20px 0;
+}
+#publication-hero>div>div>div .publication-hero-tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+#publication-hero>div>div>div .publication-hero-tags .publication-tag {
+    background: #E1C166;
+    color: #fff;
+    font-size: 11px;
+    padding: 6px 16px;
+    border-radius: 99px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+#publication-hero>div>div>div .publication-hero-img {}
+#publication-hero>div>div>div .publication-hero-img img {
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    display: block;
+}
+
+#related-lawyers {}
+#related-lawyers>div {}
+#related-lawyers>div>div {}
+#related-lawyers>div>div>div {}
+#related-lawyers>div>div>div h2 {
+    font-size: 25px;
+    font-weight: 300;
+    font-style: italic;
+}
+/* Interna publicacao */
+
+/* Listagem Equipe */
+
+#professionals-list {}
+#professionals-list>div {}
+#professionals-list>div>div {}
+#professionals-list>div>div>div {}
+#professionals-list>div>div>div .professionals-search-field {
+    border-bottom: 1px solid #E1C166;
+}
+#professionals-list>div>div>div .professionals-search-field input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 8px 0;
+    font-size: 16px;
+    background: transparent;
+}
+#professionals-list>div>div>div .professionals-search-field input::placeholder {
+    color: #5D5D5D;
+}
+#professionals-list>div>div>div .professionals-search-field select {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 8px 0;
+    font-size: 16px;
+    background: transparent;
+    color: #5D5D5D;
+    cursor: pointer;
+}
+#professionals-list>div>div>div .professional-card {
+    margin-bottom: 20px;
+}
+#professionals-list>div>div>div .professional-card .professional-card-img {
+    line-height: 0;
+}
+#professionals-list>div>div>div .professional-card .professional-card-img img {
+    width: 100%;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    display: block;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body {
+    padding: 12px 0;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body h5 {
+    font-size: 22px;
+    font-weight: 300;
+    color: #222222;
+    margin-bottom: 6px;
+}
+#professionals-list>div>div>div .professional-card .professional-card-divider {
+    height: 1px;
+    background: #E1C166;
+    margin-bottom: 10px;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body .professional-card-email {
+    font-size: 16px;
+    color: #222222;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body .professional-card-email i {
+    margin-right: 6px;
+    color: #E1C166;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body .professional-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#professionals-list>div>div>div .professional-card .professional-card-body .professional-card-footer a {
+    color: #E1C166;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Listagem Equipe */
+
+/* Carreiras */
+
+#careers-hero {}
+#careers-hero>div {}
+#careers-hero>div>div {}
+#careers-hero>div>div>div {}
+#careers-hero>div>div>div .careers-hero-content {}
+#careers-hero>div>div>div .careers-hero-content p {
+    text-transform: uppercase;
+}
+#careers-hero>div>div>div .careers-hero-content h2 {
+    font-size: 45px;
+    font-weight: 300 !important;
+    max-width: 800px;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search {
+    display: flex;
+    align-items: center;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-input {
+    flex: 1;
+    border-bottom: 1px solid #E1C166;
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-input input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    color: #fff;
+    padding: 8px 0;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-input input::placeholder {
+    color: #fff;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-input i {
+    color: #fff;
+    font-size: 18px;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-select {
+    border-bottom: 1px solid #E1C166;
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+    min-width: 180px;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-select select {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 0;
+    cursor: pointer;
+    appearance: none;
+}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-select select option {}
+#careers-hero>div>div>div .careers-hero-content .careers-search .careers-search-select i {
+    color: #CDCDCD;
+    font-size: 12px;
+}
+
+#our-culture {}
+#our-culture>div {}
+#our-culture>div>div {}
+#our-culture>div>div>div {}
+#our-culture>div>div>div .our-culture-content {
+    margin-right: 60px;
+}
+#our-culture>div>div>div .our-culture-content h2 {
+    font-size: 30px;
+    font-weight: 300 !important;
+}
+#our-culture>div>div>div .our-culture-content p {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+#our-culture>div>div>div .our-culture-imgs {
+    position: relative;
+    height: 500px;
+}
+#our-culture>div>div>div .our-culture-imgs .our-culture-img-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 55%;
+    z-index: 1;
+}
+#our-culture>div>div>div .our-culture-imgs .our-culture-img-top img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+}
+#our-culture>div>div>div .our-culture-imgs .our-culture-img-bottom {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 60%;
+    z-index: 2;
+    border-top: 30px solid #fff;
+    border-left: 30px solid #fff;
+}
+#our-culture>div>div>div .our-culture-imgs .our-culture-img-bottom img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    display: block;
+}
+
+#our-benefits {}
+#our-benefits>div {}
+#our-benefits>div>div {}
+#our-benefits>div>div>div {}
+#our-benefits>div>div>div>p {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+#our-benefits>div>div>div h2 {
+    font-size: 30px;
+    font-weight: 300 !important;
+}
+#our-benefits>div>div>div .benefit-item {
+    display: flex;
+    align-items: flex-start;
+}
+#our-benefits>div>div>div .benefit-item img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    display: block;
+    flex-shrink: 0;
+    margin-right: 16px;
+}
+#our-benefits>div>div>div .benefit-item p {
+    font-size: 20px;
+}
+
+#join-us {}
+#join-us>div {}
+#join-us>div>div {}
+#join-us>div>div>div {}
+#join-us>div>div>div h1 {
+    font-size: 28px;
+    font-weight: 300;
+}
+#join-us>div>div>div .join-us-actions {
+    display: flex;
+    align-items: center;
+}
+#join-us>div>div>div .join-us-actions h2 {
+    font-size: 28px;
+    font-weight: 300;
+    margin: 0 20px;
+}
+#join-us>div>div>div .join-us-linkedin {
+    display: flex;
+    align-items: center;
+}
+#join-us>div>div>div .join-us-linkedin h2 {
+    font-size: 28px;
+    font-weight: 300;
+    margin-right: 16px;
+}
+#join-us>div>div>div .join-us-linkedin .linkedin-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border: 2px solid #E1C166;
+    border-radius: 8px;
+    color: #4875B4;
+    font-size: 24px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+#join-us>div>div>div .join-us-linkedin .linkedin-btn:hover {
+    background: #E1C166;
+    color: #fff;
+}
+/* Carreiras */
 
 /* Footer */
 

@@ -853,7 +853,7 @@ em {
     transition: border-color 0.2s, color 0.2s;
     margin-left: 50px;
 }
-#stickyHeader .main-header>div>div>div .main-nav a:hover {
+#stickyHeader .main-header>div>div>div .main-nav a:hover, #stickyHeader .main-header>div>div>div .main-nav a.active {
     color: #E1C166;
     border-bottom-color: #E1C166;
 }
@@ -871,6 +871,7 @@ em {
     align-items: center;
     align-items: flex-end;
     position: relative;
+    background-attachment: fixed;
 }
 #page-hero .slide::after {
     content: '';
@@ -1279,7 +1280,9 @@ em {
     font-size: 16px;
 }
 
-#career {}
+#career {
+    border-bottom: 5px solid #e1c167;
+}
 #career>div {}
 #career>div>div {}
 #career>div>div>div {}

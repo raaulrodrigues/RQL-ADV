@@ -73,7 +73,7 @@
                     </div>
                     <div class="col-8 d-flex justify-content-end">
                         <nav class="main-nav">
-                            <a href="<?php bloginfo('url'); ?>/o-escritorio">O Escritório</a>
+                            <a<?php if(is_page('o-escritorio')): ?> class="active"<?php endif; ?> href="<?php bloginfo('url'); ?>/o-escritorio">O Escritório</a>
                             <a href="#">Equipe</a>
                             <a href="#">Áreas de Atuação</a>
                             <a href="#">Publicações</a>

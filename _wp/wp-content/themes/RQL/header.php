@@ -45,7 +45,7 @@
                         </a>
                     </div>
                     <div class="col-lg-auto">
-                        <a target="_blank" href="#" class="top-link">
+                        <a target="_blank" href="https://www.instagram.com/rochaequeirozadvogados" class="top-link">
                             <i class="bi bi-instagram"></i>
                             <span>Siga-nos no Instagram</span>
                         </a>
@@ -74,9 +74,11 @@
                     <div class="col-8 d-flex justify-content-end">
                         <nav class="main-nav">
                             <a<?php if(is_page('o-escritorio')): ?> class="active"<?php endif; ?> href="<?php bloginfo('url'); ?>/o-escritorio">O Escritório</a>
-                            <a href="#">Equipe</a>
+                            <a<?php if(is_post_type_archive('equipe') || is_singular('equipe')): ?> class="active"<?php endif; ?> href="<?php bloginfo('url'); ?>/equipe">Equipe</a>
                             <a href="#">Áreas de Atuação</a>
+                            <?php /*
                             <a href="#">Publicações</a>
+                            */ ?>
                             <a href="#">Carreiras</a>
                             <a href="#">Contato</a>
                         </nav>

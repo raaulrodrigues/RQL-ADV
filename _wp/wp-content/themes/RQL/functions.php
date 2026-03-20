@@ -2,7 +2,7 @@
 	show_admin_bar( false );
 
 	add_theme_support( 'post-thumbnails' );
-	// add_image_size( 'DestaqueHome', 9999999, 950, false );
+	add_image_size( 'Equipe', 600, 800, true );
 
 	function custom_excerpt_length( $length ) {
         return 30;

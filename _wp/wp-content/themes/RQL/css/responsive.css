@@ -116,11 +116,11 @@
         font-size: 24px;
     }
 
-    #professionals-list>div>div>div .professionals-search-field {
+    #professionals-list>div>form>div .professionals-search-field {
         margin-bottom: 16px;
     }
-    #professionals-list>div>div>div .professionals-search-field input,
-    #professionals-list>div>div>div .professionals-search-field select {
+    #professionals-list>div>form>div .professionals-search-field input,
+    #professionals-list>div>form>div .professionals-search-field select {
         font-size: 14px;
     }
     #professionals-list>div>div>div .professional-card {

@@ -8,9 +8,9 @@
                     <div class="col-12 col-md-6 col-lg-3">
                         <div class="main-footer-content title-white">
                             <h6>Contato</h6>
-                            <a href="mailto:rql@rqladvogadosassociados.com.br" class="contact-link"><i class="bi bi-envelope"></i> rql@rqladvogadosassociados.com.br</a>
-                            <a href="tel:+551123919452" class="contact-link"><i class="bi bi-telephone"></i> +55 (11) 2391-9452</a>
-                            <a href="#" class="contact-link"><i class="bi bi-instagram"></i> Siga-nos no Instagram</a>
+                            <a target="_blank" href="mailto:rql@rqladvogadosassociados.com.br" class="contact-link"><i class="bi bi-envelope"></i> rql@rqladvogadosassociados.com.br</a>
+                            <a target="_blank" href="tel:+551123919452" class="contact-link"><i class="bi bi-telephone"></i> +55 (11) 2391-9452</a>
+                            <a target="_blank" href="https://www.instagram.com/rochaequeirozadvogados" class="contact-link"><i class="bi bi-instagram"></i> Siga-nos no Instagram</a>
                         </div>
                     </div>
                     <div class="col-12 col-md-6 col-lg-3">
@@ -47,7 +47,7 @@
                         <a href="#">Termos de Uso</a>
                     </div>
                     <div class="col-12 col-lg-2 d-flex justify-content-start justify-content-lg-end">
-                        <a href="#"><img src="<?php bloginfo('template_url'); ?>/img/logo-th2.svg" alt="TH2"></a>
+                        <a href="https://www.agenciath2.com"><img src="<?php bloginfo('template_url'); ?>/img/logo-th2.svg" alt="TH2"></a>
                     </div>
                 </div>
             </div>

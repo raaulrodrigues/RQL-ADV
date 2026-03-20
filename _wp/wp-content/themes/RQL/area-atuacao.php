@@ -21,22 +21,36 @@
             <div class="row">
                 <div class="col-12">
                     <div class="about-content main-text">
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+                        <p>Trabalhista:</p>
+                        <p>Direito do Trabalho: Estratégia e Proteção para Alta Gestão</p>
+                        <p>A Rocha & Queiroz Advogados atua na defesa de profissionais que ocupam posições de liderança e decisão. O processo judicial para a Alta Gestão é uma ferramenta para o equilíbrio de forças frente a grandes organizações. Nossa atuação é pautada pela inovação jurídica, assegurando que executivos e diretores tenham paridade técnica e estratégica no momento de proteger seu patrimônio e sua trajetória profissional.</p>
+                        <p>Nossa atuação desdobra-se em quatro eixos de alta performance:</p>
                         <ul>
-                            <li>Lorem ipsum dolor sit amet consectetur adipiscing elit.</li>
-                            <li>Quisque faucibus ex sapien vitae pellentesque sem placerat.</li>
-                            <li>In id cursus mi pretium tellus duis convallis.</li>
-                            <li>Tempus leo eu aenean sed diam urna tempor.</li>
-                            <li>Pulvinar vivamus fringilla lacus nec metus bibendum egestas.</li>
+                            <li>Contencioso Especializado em Cargos de Confiança: Atuação incisiva em demandas envolvendo bônus, stock options, gratificações variáveis e cláusulas de não-concorrência.</li>
+                            <li>Estratégia em Rescisões Complexas: Gestão jurídica para saídas estratégicas de cargos diretivos, preservando o prestígio e a compensação do profissional.</li>
+                            <li>Humanização e Sigilo no Atendimento: Atendimento exclusivo e discreto, onde a integridade da carreira do executivo é a prioridade absoluta.</li>
+                            <li>Inovação e Precisão de Dados: Uso de ferramentas tecnológicas para a apuração minuciosa de defasagens contratuais, transformando dados em resultados concretos.</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+                        <p>Tributária:</p>
+                        <p>Direito Tributário e Inteligência de Negócios</p>
+                        <p>No Rocha & Queiroz, o Direito Tributário é aplicado de forma estratégica e alinhada às operações dos clientes. Atuamos com precisão técnica para estruturar, revisar e sustentar decisões fiscais com segurança e consistência, sempre com foco na redução de contingências e na eficiência da carga tributária. Nossa atuação se organiza em quatro frentes principais:</p>
                         <ul>
-                            <li>Iaculis massa nisl malesuada lacinia integer nunc posuere.</li>
-                            <li>Ut hendrerit semper vel class aptent taciti sociosqu.</li>
-                            <li>Ad litora torquent per conubia nostra inceptos himenaeos.</li>
+                            <li>Revisão e Reintegração de Valores Tributários</li>
                         </ul>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+                        <p>Mapeamento técnico de recolhimentos indevidos ou a maior, com condução estruturada de medidas para recomposição financeira e impacto direto na posição de caixa.</p>
+                        <ul>
+                            <li>Planejamento Tributário Estratégico</li>
+                        </ul>
+                        <p>Análise e reorganização de estruturas e operações, com fundamento na legislação e jurisprudência aplicáveis, visando à eficiência fiscal com segurança jurídica e previsibilidade.</p>
+                        <ul>
+                            <li>Contencioso Tributário</li>
+                        </ul>
+                        <p>Atuação nas esferas administrativa e judicial, com desenvolvimento de teses consistentes e condução técnica de defesas alinhadas aos entendimentos mais recentes dos tribunais, com foco na mitigação de passivos relevantes.</p>
+                        <ul>
+                            <li>Consultoria Tributária e Gestão de Riscos</li>
+                        </ul>
+                        <p>Acompanhamento contínuo das operações, com foco na antecipação de contingências, interpretação normativa e suporte qualificado à tomada de decisões estratégicas.</p>
+                        <p>Na Rocha & Queiroz, o Direito Tributário é conduzido com precisão técnica e visão estratégica, integrando-se à realidade operacional dos clientes para sustentar decisões mais consistentes e resultados duradouros.</p>
                     </div>
                 </div>
             </div>

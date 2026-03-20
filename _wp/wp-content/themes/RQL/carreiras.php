@@ -42,9 +42,15 @@
                 <div class="col-12 col-md-5">
                     <div class="our-culture-content main-text title-gold text-light-black">
                         <h2>Nossa cultura</h2>
-                        <p>Acreditamos no desenvolvimento contínuo, no trabalho colaborativo e no respeito as particularidades de cada profissional.</p>
-                        <p>Valorizamos a postura ética, a comunicação clara e o compromisso com a qualidade técnica.</p>
-                        <p>Aqui, cada profissional é parte essencial da construção de um ambiente respeitoso, profissional e humano.</p>
+                        <p>Na Rocha & Queiroz, nossa cultura reflete exatamente os valores que defendemos em juízo: integridade, clareza e respeito. Um time de alta performance se constrói através da diversidade de pensamento e do compromisso ético, onde o cuidado com o nosso capital humano se traduz em segurança e resultados excepcionais para nossos clientes.</p>
+                        <p>Nossa essência é sustentada por quatro pilares fundamentais:</p>
+                        <ul>
+                            <li>Evolução e Vanguarda: Foco no desenvolvimento contínuo e na atualização constante frente às inovações do cenário jurídico e tecnológico.</li>
+                            <li>Colaboração Estratégica: Acreditamos na força da inteligência coletiva e no respeito incondicional às particularidades e talentos de cada profissional.</li>
+                            <li>Integridade e Rigor: Mantemos uma postura ética inegociável, com comunicação clara e um padrão superior de qualidade técnica em todos os processos.</li>
+                            <li>Humanismo e Simetria: Construímos um ambiente dinâmico, respeitoso e profissional, tratando as pessoas como nosso ativo mais valioso.</li>
+                        </ul>
+                        <p>"Para nós, a justiça que buscamos para nossos clientes começa com o respeito e a excelência que praticamos aqui dentro." - Gente&Cultura </p>
                     </div>
                 </div>
                 <div class="col-12 col-md-7">

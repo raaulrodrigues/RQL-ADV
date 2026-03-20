@@ -20,7 +20,7 @@
             <form action="<?php bloginfo('url'); ?>/equipe" method="get" class="row align-items-center justify-content-between">
                 <div class="col-12 col-md-5">
                     <div class="professionals-search-field">
-                        <input type="text" name="keyword" placeholder="Nome do Profissional" value="<?php if($_GET['keyword']){ echo $_GET['keyword']; } ?>">
+                        <input type="text" name="keyword" placeholder="Nome do Profissional" value="<?php if(isset($_GET['keyword'])){ echo $_GET['keyword']; } ?>">
                     </div>
                 </div>
                 <div class="col-12 col-md-3">

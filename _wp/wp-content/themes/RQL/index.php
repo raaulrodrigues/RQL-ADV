@@ -23,8 +23,9 @@
                 <div class="col-12">
                     <div class="about-content text-light-black title-gold main-text">
                         <h2>O Escritório</h2>
-                        <p>O Escritório Rocha & Queiroz Advogados, inscrito na OAB/SP sob nº 20.896, foi fundado há mais de 10 anos a partir da conjugação de um corpo jurídico altamente qualificado, formado por advogados e advogadas oriundos das mais conceituadas universidades do país, todos com sólida especialização em Direito e Processo do Trabalho.</p>
-                        <p>Com atuação consolidada na esfera trabalhista, especialmente na defesa dos empregados de instituições financeiras, o escritório desenvolveu ao longo dos anos uma prática pautada em estratégia jurídica, eficiência e dinamismo, sempre com atenção às particularidades de cada caso.</p>
+                        <p>Rocha & Queiroz: Inteligência Jurídica e Equilíbrio Estratégico para a Alta Gestão e o Mercado Corporativo</p>
+                        <p>Com mais de uma década de trajetória e registro na OAB/SP sob o nº 20.896, o escritório Rocha & Queiroz consolidou-se como uma referência em soluções jurídicas de alta complexidade. Formado por profissionais egressos das mais conceituadas instituições do país, nosso DNA une o rigor técnico à inovação para entregar resultados sólidos em duas frentes vitais: o Direito do Trabalho Estratégico (Pró-Reclamante de Alta Gestão) e o Direito Tributário Empresarial.</p>
+                        <p>Ao longo dos anos, desenvolvemos uma prática pautada na eficiência e no dinamismo, onde cada caso é tratado como um ecossistema único. Nossa atuação é estratégica, focada em antecipar cenários e garantir simetria técnica aos nossos clientes frente aos maiores desafios do mercado. Acreditamos que a advocacia moderna exige visão de futuro. </p>
                         <div class="spacer-10"></div>
                         <a href="#" class="main-btn bg-gold text-white bg-hover-light-black text-hover-gold">SAIBA MAIS</a>
                     </div>
@@ -99,6 +100,10 @@
                 <div class="col-12 col-md-12 col-lg-5">
                     <div class="partner-item title-light-black">
                         <h2>Ramon Rocha</h2>
+                        <p>Sócio</p>
+                        <p>Advogado inscrito na OAB/SP 330.839</p>
+                        <p>Fundador do Escritório Rocha & Queiroz Advogados. Graduado em direito pela Universidade Presbiteriana Mackenzie, pós-graduado em direito do trabalho, pela Pontifícia Universidade Católica de São Paulo (PUC).</p>
+                        <p>Especialista em Direito do Trabalho, Direito Processual do Trabalho e Direito Processual Civil.</p>
                         <div class="partner-contacts">
                             <a href="#"><i class="bi bi-telephone"></i> (XX) 0000-0000</a>
                             <a href="#"><i class="bi bi-envelope"></i> email@email.com.br</a>
@@ -109,6 +114,10 @@
                 <div class="col-12 col-md-12 col-lg-5">
                     <div class="partner-item title-light-black">
                         <h2>Jefferson Queiroz</h2>
+                        <p>Sócio</p>
+                        <p>Advogado inscrito na OAB/SP 316.188</p>
+                        <p>Fundador do Escritório Rocha & Queiroz Advogados. Graduado em Direito pela Faculdades Metropolitanas Unidas (FMU).</p>
+                        <p>Especialista em Direito do Trabalho, Direito Processual do Trabalho e Direito Processual Civil.</p>
                         <div class="partner-contacts">
                             <a href="#"><i class="bi bi-telephone"></i> (XX) 0000-0000</a>
                             <a href="#"><i class="bi bi-envelope"></i> email@email.com.br</a>
@@ -125,7 +134,7 @@
                 <div class="col-12 col-md-8 col-lg-4">
                     <div class="our-team-top title-gold text-light-black main-text">
                         <h2>Equipe</h2>
-                        <p>Com atuação consolidada e alinhada às práticas contemporâneas nas áreas Trabalhista e Tributária, o escritório utiliza métodos jurídicos estratégicos, com foco em eficiência e dinamismo.</p>
+                        <p>Nossa equipe reúne especialistas de alta performance, focados em traduzir a complexidade jurídica em agilidade e segurança. Com sólida formação e atuação alinhada às práticas mais modernas das áreas Trabalhista e Tributária, nossos profissionais utilizam métodos estratégicos e dinâmicos para garantir que cada cliente receba uma solução personalizada, ética e de alto impacto.</p>
                     </div>
                 </div>
             </div>
@@ -171,21 +180,21 @@
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-patch-check"></i>
                         <h3>Qualificação</h3>
-                        <p>Dentre as principais atividades do escritório, além do atendimento consultivo em Direito do Trabalho e Direito Tributário, destaca-se a atuação no contencioso judicial, mediante o ajuizamento das medidas processuais cabíveis e o acompanhamento técnico das demandas em todas as suas fases.</p>
+                        <p>O Escritório Rocha & Queiroz Advogados destaca-se pela alta especialização no atendimento consultivo em Direito do Trabalho e Direito Tributário. No campo contencioso, nossa atuação é técnica e incisiva, compreendendo o manejo de medidas processuais complexas e o acompanhamento estratégico das demandas em todas as instâncias judiciais.</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-star"></i>
                         <h3>Confiabilidade</h3>
-                        <p>Defender os interesses de nossos clientes, com ética, resguardando a moral e seus valores, estabelecendo confiabilidade e transparência.</p>
+                        <p>Nossa missão é a defesa intransigente dos interesses de nossos constituintes. Atuamos sob os mais rígidos padrões éticos, resguardando valores institucionais e estabelecendo uma relação de transparência absoluta e confiabilidade mútua em cada etapa da consultoria jurídica.</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="differential-item title-white text-white main-text">
                         <i class="bi bi-mortarboard"></i>
                         <h3>Especialização</h3>
-                        <p>O Escritório Rocha & Queiroz Advogados conta com um corpo jurídico altamente qualificado, com atuação consolidada na área Trabalhista e expansão estratégica para a área Tributária, formado por profissionais oriundos das mais conceituadas universidades do país.</p>
+                        <p>Contamos com um corpo jurídico de elite, formado por profissionais egressos das mais conceituadas instituições de ensino do país. Nossa expertise une uma atuação histórica e premiada na área Trabalhista a uma expansão estratégica e robusta no Direito Tributário, garantindo uma visão 360° do passivo e ativo empresarial.</p>
                     </div>
                 </div>
             </div>

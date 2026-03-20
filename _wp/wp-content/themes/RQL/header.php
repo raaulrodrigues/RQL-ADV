@@ -1,3 +1,4 @@
+<?php $ver = rand(0, 99999); ?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

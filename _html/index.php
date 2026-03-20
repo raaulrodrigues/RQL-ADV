@@ -25,6 +25,7 @@
                         <h2>O Escritório</h2>
                         <p>O Escritório Rocha & Queiroz Advogados, inscrito na OAB/SP sob nº 20.896, foi fundado há mais de 10 anos a partir da conjugação de um corpo jurídico altamente qualificado, formado por advogados e advogadas oriundos das mais conceituadas universidades do país, todos com sólida especialização em Direito e Processo do Trabalho.</p>
                         <p>Com atuação consolidada na esfera trabalhista, especialmente na defesa dos empregados de instituições financeiras, o escritório desenvolveu ao longo dos anos uma prática pautada em estratégia jurídica, eficiência e dinamismo, sempre com atenção às particularidades de cada caso.</p>
+                        <div class="spacer-10"></div>
                         <a href="#" class="main-btn bg-gold text-white bg-hover-light-black text-hover-gold">SAIBA MAIS</a>
                     </div>
                 </div>

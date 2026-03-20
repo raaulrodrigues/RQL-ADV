@@ -262,11 +262,13 @@ em {
 .main-text>* {
     margin-bottom: 15px;
 }
+.main-text>*:last-child {
+    margin-bottom: 0px;
+}
 .main-text iframe {display: block;width: 100%;aspect-ratio: 5 / 2;height: auto;}
 .main-text p {
     font-size: 16px;
     font-family: 'Exo';
-    /* font-weight: 300; */
     line-height: 30px;
 }
 .main-text.featured-text p {
@@ -845,12 +847,12 @@ em {
     font-size: 15px;
     color: #fff;
     text-decoration: none;
-    padding: 0 24px;
     height: 60px;
     display: flex;
     align-items: center;
     border-bottom: 2px solid transparent;
     transition: border-color 0.2s, color 0.2s;
+    margin-left: 50px;
 }
 #stickyHeader .main-header>div>div>div .main-nav a:hover {
     color: #E1C166;
@@ -869,9 +871,23 @@ em {
     display: flex;
     align-items: center;
     align-items: flex-end;
+    position: relative;
+}
+#page-hero .slide::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    pointer-events: none;
+    background: #E1C166;
+    background: linear-gradient(360deg,rgba(225, 193, 102, 1) 0%, rgba(225, 193, 102, 0) 75%);
+    opacity: 0.30;
 }
 #page-hero .slide>div {
     width: 100%;
+    position: relative;
+    z-index: 2;
 }
 #page-hero .slide>div>div {}
 #page-hero .slide>div>div>div {
@@ -908,27 +924,8 @@ em {
     position: relative;
     background-size: cover;
     background-position: center;
-    height: 500px;
     display: flex;
     align-items: flex-end;
-}
-#practice-areas>div>div>div:first-child .area-card::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 12px;
-    background: linear-gradient(to right, #8c6a2f, #d4af37);
-}
-#practice-areas>div>div>div:last-child .area-card::before {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 12px;
-    background: linear-gradient(to right, #8c6a2f, #d4af37);
 }
 #practice-areas>div>div>div .area-card .area-card-content {
     padding: 80px 60px;
@@ -1137,7 +1134,6 @@ em {
 }
 
 /* Home */
-
 
 /* About Us */
 
@@ -1424,6 +1420,7 @@ em {
     font-weight: 300;
     font-style: italic;
 }
+
 /* Interna publicacao */
 
 /* Listagem Equipe */
@@ -1692,6 +1689,7 @@ em {
     background: #E1C166;
     color: #fff;
 }
+
 /* Carreiras */
 
 /* Footer */

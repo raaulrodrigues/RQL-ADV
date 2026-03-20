@@ -17,26 +17,26 @@
     <header id="stickyHeader">
         <div class="top-header bg-black">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-3">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-auto">
                         <a href="mailto:rql@rqladvogadosassociados.com.br" class="top-link">
                             <i class="bi bi-envelope"></i>
                             <span>rql@rqladvogadosassociados.com.br</span>
                         </a>
                     </div>
-                    <div class="col-3">
+                    <div class="col-lg-auto">
                         <a href="tel:+551123919452" class="top-link">
                             <i class="bi bi-telephone"></i>
                             <span>+55 (11) 2391-9452</span>
                         </a>
                     </div>
-                    <div class="col-3">
+                    <div class="col-lg-auto">
                         <a href="#" class="top-link">
                             <i class="bi bi-instagram"></i>
                             <span>Siga-nos no Instagram</span>
                         </a>
                     </div>
-                    <div class="col-3">
+                    <div class="col-lg-auto">
                         <button class="lang-btn">
                             <i class="bi bi-translate"></i>
                             <span>SELECIONAR IDIOMA</span>
@@ -55,7 +55,7 @@
                             <img src="img/logo-rql.svg" alt="">
                         </a>
                     </div>
-                    <div class="col-8">
+                    <div class="col-8 d-flex justify-content-end">
                         <nav class="main-nav">
                             <a href="#">O Escritório</a>
                             <a href="#">Equipe</a>
